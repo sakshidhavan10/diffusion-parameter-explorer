@@ -1,4 +1,4 @@
-# Model Card — Diffusion Parameter Explorer (P33)
+# Model Card — Diffusion Parameter Explorer 
 
 ## Models used
 | Role | Model | Notes |
